@@ -1,4 +1,4 @@
-# vue-shop
+# 这是一个vue2开发的h5茶品商城
 
 ## Project setup
 ```
